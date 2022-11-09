@@ -1,5 +1,7 @@
-# Python sample
-
+# Python docker cli sample
+- [Python docker cli sample](#python-docker-cli-sample)
+  - [build](#build)
+  - [run](#run)
 ## build
 
 `docker build -t user/python:latest -f ./Dockerfile .`
